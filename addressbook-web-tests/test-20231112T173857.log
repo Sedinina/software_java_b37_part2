@@ -1,0 +1,9 @@
+361  [main] DEBUG org.jboss.logging -%PARSER_ERROR[kvp]- Logging Provider: org.jboss.logging.Slf4jLoggerProvider
+384  [main] DEBUG o.h.i.i.IntegratorServiceImpl -%PARSER_ERROR[kvp]- Adding Integrator [org.hibernate.cfg.beanvalidation.BeanValidationIntegrator].
+386  [main] DEBUG o.h.i.i.IntegratorServiceImpl -%PARSER_ERROR[kvp]- Adding Integrator [org.hibernate.secure.spi.JaccIntegrator].
+389  [main] DEBUG o.h.i.i.IntegratorServiceImpl -%PARSER_ERROR[kvp]- Adding Integrator [org.hibernate.cache.internal.CollectionCacheInvalidator].
+459  [main] INFO  org.hibernate.Version -%PARSER_ERROR[kvp]- HHH000412: Hibernate Core {5.1.0.Final}
+461  [main] INFO  org.hibernate.cfg.Environment -%PARSER_ERROR[kvp]- HHH000206: hibernate.properties not found
+462  [main] INFO  org.hibernate.cfg.Environment -%PARSER_ERROR[kvp]- HHH000021: Bytecode provider name : javassist
+481  [main] INFO  r.s.pft.addressbook.test.TestBase -%PARSER_ERROR[kvp]- Start test contactBadCreation with parameters []
+483  [main] INFO  r.s.pft.addressbook.test.TestBase -%PARSER_ERROR[kvp]- Stop test contactBadCreation
